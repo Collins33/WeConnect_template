@@ -80,3 +80,21 @@ body{
  #description{
      height: 100px;
  }
+ .info-row{
+     height: 50px;
+     margin-left:5%;
+     margin-right:5%;
+     margin-top:20px;
+     margin-bottom:20px;  
+ }
+ .review-row{
+     margin-top:5px;
+ }
+
+ .businessdetails{
+    
+     margin-top:10px;
+     margin-bottom:10px;
+     margin-right:10px;
+     margin-left: 10pxl;    
+ }
