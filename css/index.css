@@ -107,3 +107,11 @@ body{
      margin-top:10%;
       
  }
+ .contact-row{
+     margin-top:10px;
+     margin-left:30%;
+     margin-right:30%;   
+ }
+ #message-field{
+     height:70px; 
+ }
